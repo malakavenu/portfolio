@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://malakavenu.com/</loc>
+  <lastmod>2017-12-29T18:06:43+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://malakavenu.com/images/portfolio/Malaka_Venugopal_Reddy.pdf</loc>
+  <lastmod>2017-12-29T18:06:43+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://malakavenu.com/images/portfolio/3.jpg</loc>
+  <lastmod>2017-12-29T18:06:43+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://malakavenu.com/images/v1.jpg</loc>
+  <lastmod>2017-12-29T18:06:43+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://malakavenu.com/#resume</loc>
+  <lastmod>2017-12-29T18:06:43+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://malakavenu.com/#about</loc>
+  <lastmod>2017-12-29T18:06:43+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://malakavenu.com/#portfolio</loc>
+  <lastmod>2017-12-29T18:06:43+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://malakavenu.com/#testimonial</loc>
+  <lastmod>2017-12-29T18:06:43+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://malakavenu.com/#contact</loc>
+  <lastmod>2017-12-29T18:06:43+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+</urlset>
